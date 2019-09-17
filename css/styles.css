@@ -1,0 +1,7 @@
+#able-voter, #under-18 {
+  display: none;
+}
+
+p {
+  background-color: rgba(100, 22, 0, 0.5);
+}
